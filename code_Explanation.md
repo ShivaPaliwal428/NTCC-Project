@@ -54,7 +54,7 @@ explanation:
 Prints total number of charged particles.
 
 Saves the histogram to tutorial43.root.
- ### now in all the files the variables and the center of mass energy will be changed
+ ### now in all the files the variables and the center of mass energy will be changed accordingly
  ##multiplicity.c
  Step-by-Step Explanation
 1. Open File and Get Histogram
